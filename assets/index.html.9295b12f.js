@@ -1,0 +1,1 @@
+import{o as e,a as t,d as a,b as s}from"./app.bebeb26d.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const r={},c={id:"temas",tabindex:"-1"},d=a("a",{class:"header-anchor",href:"#temas","aria-hidden":"true"},"#",-1),_=s(" Temas"),n=[d,_];function i(h,m){return e(),t("h1",c,n)}var l=o(r,[["render",i]]);export{l as default};

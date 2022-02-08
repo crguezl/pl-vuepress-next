@@ -1,0 +1,1 @@
+const e={key:"v-f3f00218",path:"/clases/index.html",title:"Clases",lang:"en-US",frontmatter:{title:"Clases",permalink:"/clases/index.html",sidebar:!1},excerpt:"",headers:[],git:{contributors:[{name:"Casiano Rodriguez-Leon",email:"crguezl@ull.edu.es",commits:1}]},filePathRelative:"clases/README.md"};export{e as data};

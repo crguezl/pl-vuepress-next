@@ -1,0 +1,1 @@
+const t={key:"v-27b83926",path:"/temas/introduccion-a-pl/what-is-a-linker.html",title:"What is a Linker",lang:"en-US",frontmatter:{title:"What is a Linker"},excerpt:"",headers:[],git:{contributors:[]},filePathRelative:"temas/introduccion-a-pl/what-is-a-linker.md"};export{t as data};
