@@ -1,4 +1,5 @@
 ---
+sidebar: auto
 ---
 ## Esprima/Espree Examples
 
