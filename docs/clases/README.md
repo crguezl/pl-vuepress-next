@@ -1,10 +1,10 @@
 ---
 {
     "title": "Clases",
-    "permalink": "/clases/index.html",
-    "sidebar": false
+    "permalink": "/clases/index.html"
 }
 ---
 
 # {{ $frontmatter.title }}
 
+Blah
