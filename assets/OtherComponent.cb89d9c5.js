@@ -1,0 +1,1 @@
+import{o as e,c as o}from"./app.796b991a.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const t={},c={class:"demo"};function n(s,a){return e(),o("p",c,"This is another component")}var m=r(t,[["render",n]]);export{m as default};
