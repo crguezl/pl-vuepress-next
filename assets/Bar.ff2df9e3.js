@@ -1,1 +1,0 @@
-import{o,c as s,t as r}from"./app.796b991a.js";import{_ as t}from"./plugin-vue_export-helper.21dcd24c.js";const a={data(){return{msg:"Hello this is <Foo-Bar>"}}},c={class:"demo"};function p(n,_,i,l,e,m){return o(),s("p",c,r(e.msg),1)}var u=t(a,[["render",p]]);export{u as default};
