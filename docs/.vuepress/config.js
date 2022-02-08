@@ -15,11 +15,7 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    sidebar: {
-      "/temas/": "auto",
-      "/practicas/": "auto",
-      "/clases/": "auto"
-    },
+    //sidebar: 'auto',
     // displayAllHeaders: true, // Default: false
     navbar: PLVariables.nav, 
   },

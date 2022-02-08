@@ -8,5 +8,3 @@
 
 # {{ $frontmatter.title }}
 
-
-!!!include(clases.md)!!!
