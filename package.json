@@ -4,9 +4,9 @@
   "description": "Apuntes de PL 21/22",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs --debug",
     "docs:build": "vuepress build docs",
-    "deploy": "npm run docs:build && gh-pages -d .vuepress/dist"
+    "deploy": "npm run docs:build && gh-pages -d ./docs/.vuepress/dist/"
   },
   "repository": {
     "type": "git",

@@ -5,7 +5,7 @@ module.exports = {
   lang: 'en-US',
   title: 'PL 21/22',
   description: description,
-  base: "", // "/vuepress-pl-prototype/",
+  base: "/pl-vuepress-next/",
   theme: '@vuepress/theme-default',
 
   themeConfig: {
