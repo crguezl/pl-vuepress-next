@@ -1,0 +1,1 @@
+import{o,c as t,t as s}from"./app.b6495668.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const n={data(){return{msg:"Hello this is <demo-component>"}}},p={class:"demo"};function c(a,m,_,i,e,d){return o(),t("p",p,s(e.msg),1)}var u=r(n,[["render",c]]);export{u as default};

@@ -1,1 +1,0 @@
-const a={key:"v-9e73ecda",path:"/practicas/index.html",title:"Tasks and Labs",lang:"en-US",frontmatter:{title:"Tasks and Labs",permalink:"/practicas/index.html",sidebar:!1},excerpt:"",headers:[],git:{contributors:[]},filePathRelative:"practicas/README.md"};export{a as data};
