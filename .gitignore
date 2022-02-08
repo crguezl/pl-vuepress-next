@@ -1,6 +1,8 @@
 pids
 logs
 node_modules
+.temp
+.cache
 npm-debug.log
 coverage/
 run
