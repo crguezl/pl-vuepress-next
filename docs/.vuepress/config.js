@@ -1,5 +1,6 @@
 const { description } = require('../../package.json')
 const PLVariables = require('./pl')
+const path = require('path');
 
 module.exports = {
   lang: 'en-US',
@@ -35,6 +36,12 @@ module.exports = {
               placeholder: '搜索',
             },
           },
+        },
+      ],
+      [
+        '@vuepress/register-components',
+        {
+          componentsDir: path.resolve(__dirname, './components'),
         },
       ],
   ],

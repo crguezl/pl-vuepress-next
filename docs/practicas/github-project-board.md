@@ -39,6 +39,7 @@ Asegúrese de tener configurados como privados sus project boards
 
 ## Rúbrica
 
+<rubrica></rubrica>
 
 ## References
 
