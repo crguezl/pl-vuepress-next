@@ -6,7 +6,9 @@
   "scripts": {
     "docs:dev": "vuepress dev docs --debug",
     "docs:build": "vuepress build docs",
-    "deploy": "npm run docs:build && gh-pages -d ./docs/.vuepress/dist/"
+    "deploy": "npm run docs:build && gh-pages -d ./docs/.vuepress/dist/",
+    "push": "git ci -am 2022; git push"
+
   },
   "repository": {
     "type": "git",

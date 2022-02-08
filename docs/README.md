@@ -4,8 +4,16 @@ heroImage: "/assets/images/escuela-politecnica-ingenieria-original.png"
 #heroLink: "https://www.ull.es/centros/escuela-superior-de-ingenieria-y-tecnologia/"
 heroText: Procesadores de Lenguajes
 tagline: Curso 2021/2022
-actionText: Get Started →
-actionLink: /guide/
+actions:
+  - text: Clases
+    link: /clases
+    type: primary
+  - text: Temas
+    link: /temas/
+    type: secondary/
+  - text: Prácticas
+    link: /practicas/
+    type: primary
 features:
 - title: Simplicity First
   details: Minimal setup with markdown-centered project structure helps you focus on writing.
