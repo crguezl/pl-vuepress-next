@@ -7,7 +7,18 @@ module.exports = {
   title: 'PL 21/22',
   description: description,
   base: "/pl-vuepress-next/",
+  head: [['link', { rel: 'icon', href: '/favicon-32x32.png' }]],
+  //bundler:  '@vuepress/bundler-vite',
+  bundler: '@vuepress/bundler-webpack', // https://v2.vuepress.vuejs.org/reference/bundler/webpack.html#options
+  // options for webpack bundler
+  /*
+  bundlerConfig: {
+    // see below
+  },
+  */
+  // port: 4000,
   //theme: '@vuepress/theme-default',
+  
   theme: path.resolve(__dirname, './theme'),
 
   themeConfig: {

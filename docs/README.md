@@ -1,6 +1,7 @@
 ---
 home: true
-heroImage: "/assets/images/escuela-politecnica-ingenieria-original.png"
+#heroImage: "/assets/images/escuela-politecnica-ingenieria-original.png"
+heroImage: "/assets/images/escuela-politecnica-ingenieria-positivo.png"
 #heroLink: "https://www.ull.es/centros/escuela-superior-de-ingenieria-y-tecnologia/"
 heroText: Procesadores de Lenguajes
 tagline: Curso 2021/2022
@@ -21,6 +22,6 @@ features:
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
 - title: Performant
   details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2021-present Casiano
+footer: MIT Licensed | Copyright © 2021-present Casiano 
 ---
 

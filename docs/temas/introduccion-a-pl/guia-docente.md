@@ -1,6 +1,7 @@
 ---
 title: Organización de PL
 google_plus: https://currents.google.com/u/1/communities/101901734024125937720
+sidebar: auto
 ---
 
 ## Horarios, Calendario académico y Tutorías

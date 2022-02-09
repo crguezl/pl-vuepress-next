@@ -7,4 +7,14 @@
 
 # {{ $frontmatter.title }}
 
-Blah
+<script>
+console.log("****************************")
+console.log(this);
+
+</script>
+<pre style="color: white;">
+{{ $site }}
+
+{{ $page }}
+</pre>
+

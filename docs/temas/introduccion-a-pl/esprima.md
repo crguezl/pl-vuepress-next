@@ -3,6 +3,12 @@ sidebar: auto
 ---
 ## Esprima/Espree Examples
 
+<pre style="color: white;">
+{{ $site }}
+
+{{ $page }}
+</pre>
+
 En el [Repo ULL-ESIT-GRADOII-PL/esprima-pegjs-jsconfeu-talk](https://github.com/ULL-ESIT-GRADOII-PL/esprima-pegjs-jsconfeu-talk) encontrará el material de esta lección.
 **Clone este repo**.
 

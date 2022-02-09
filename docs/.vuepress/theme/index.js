@@ -6,4 +6,9 @@ module.exports = {
   layouts: {
     '404': path.resolve(__dirname, 'layouts/404.vue'),
   },
+  /*
+  alias: {
+    '@theme/HomeHero.vue': path.resolve(__dirname, './components/HomeHero.vue'),
+  },
+  */
 }
